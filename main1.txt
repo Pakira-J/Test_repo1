@@ -5,5 +5,7 @@ Payrole:
     Maid
         Gardener
 
-Note:
+Note: (master)
     No work, no pay
+Note: (cook)
+    Want $500 bonus from master

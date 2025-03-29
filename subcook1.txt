@@ -1,0 +1,8 @@
+This file is exclusive to branch = cook
+
+Text written here will be saved in 'cook'.
+
+Breakfast:
+    Bread
+    Soft boiled egg
+    Fruite juice
