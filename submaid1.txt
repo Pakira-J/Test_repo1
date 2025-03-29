@@ -1,0 +1,3 @@
+This file is exclusive to branch = maid
+
+Any text written here will be saved in 'maid'.
