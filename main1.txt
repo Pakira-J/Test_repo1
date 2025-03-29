@@ -4,3 +4,6 @@ Payrole:
     Cook
     Maid
         Gardener
+
+Note:
+    No work, no pay
