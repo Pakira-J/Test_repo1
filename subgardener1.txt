@@ -6,3 +6,4 @@ Work:
     Watering plant
     cutting weeds
     shaping bushes
+    Pick flowers
