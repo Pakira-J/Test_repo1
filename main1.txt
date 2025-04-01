@@ -11,3 +11,5 @@ Note: (cook)
     Want $500 bonus from master
 Note: (gardener)
     Ask for 3 days leave.
+Note:
+    The work have been published.
